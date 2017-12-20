@@ -1,4 +1,4 @@
 // declare your functions here...
 function paragraphSelector(){
-  $('index.html p')
+  $('index.html body p')
 }
