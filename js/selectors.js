@@ -14,3 +14,8 @@ function ninjaBabySelector(){
   var ninja = $('#baby-ninja');
   return ninja;
 }
+
+function divSelector(){
+  var picsDivs = $('div.pics');
+  return picsDivs;
+}
